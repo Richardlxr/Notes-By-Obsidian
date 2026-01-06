@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "史纲全面复习大纲"
             }
+          },
+          {
+            "id": "367ef33fb8f2046e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "手敲复习资料.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "手敲复习资料"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "史纲全面复习大纲.md",
+                "file": "手敲复习资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "史纲全面复习大纲 的反向链接列表"
+              "title": "手敲复习资料 的反向链接列表"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "史纲全面复习大纲.md",
+                "file": "手敲复习资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "史纲全面复习大纲 的出链列表"
+              "title": "手敲复习资料 的出链列表"
             }
           },
           {
@@ -171,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "史纲全面复习大纲.md",
+                "file": "手敲复习资料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "史纲全面复习大纲 的大纲"
+              "title": "手敲复习资料 的大纲"
             }
           }
         ]
@@ -199,9 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41c56c398050b05f",
+  "active": "367ef33fb8f2046e",
   "lastOpenFiles": [
-    "中国近现代史纲要.md",
-    "史纲全面复习大纲.md"
+    "史纲全面复习大纲.md",
+    "手敲复习资料.md",
+    "中国近现代史纲要.md"
   ]
 }
