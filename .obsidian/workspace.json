@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "望厦条约",
+                "query": "tag:#第一章",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "367ef33fb8f2046e",
+  "active": "15ff4ba087d76d6d",
   "lastOpenFiles": [
     "史纲全面复习大纲.md",
     "手敲复习资料.md",
