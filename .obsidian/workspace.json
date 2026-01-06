@@ -11,13 +11,14 @@
             "id": "1781310147fa7a9f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 2.base",
-                "viewName": "表格"
+                "file": "手敲复习资料.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 2"
+              "icon": "lucide-file",
+              "title": "手敲复习资料"
             }
           }
         ]
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 2.base",
+                "file": "手敲复习资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 2 的反向链接列表"
+              "title": "手敲复习资料 的反向链接列表"
             }
           },
           {
@@ -114,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 2.base",
+                "file": "手敲复习资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 2 的出链列表"
+              "title": "手敲复习资料 的出链列表"
             }
           },
           {
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.base",
+                "file": "手敲复习资料.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "手敲复习资料 的大纲"
             }
           }
         ]
@@ -187,8 +188,8 @@
   },
   "active": "1781310147fa7a9f",
   "lastOpenFiles": [
-    "中国近现代史纲要.md",
     "未命名 2.base",
+    "中国近现代史纲要.md",
     "未命名 1.base",
     "手敲复习资料.md",
     "未命名.base",
