@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "r",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "733df289d8ded870",
+  "active": "15ff4ba087d76d6d",
   "lastOpenFiles": [
     "Cpp程序设计.md",
     "README.md",
