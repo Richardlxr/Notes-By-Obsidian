@@ -11,14 +11,13 @@
             "id": "1781310147fa7a9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "中国近现代史纲要.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 4.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "中国近现代史纲要"
+              "icon": "lucide-table",
+              "title": "未命名 4"
             }
           }
         ]
@@ -188,8 +187,9 @@
   },
   "active": "1781310147fa7a9f",
   "lastOpenFiles": [
-    "未命名 2.base",
     "中国近现代史纲要.md",
+    "未命名 4.base",
+    "未命名 2.base",
     "未命名 3.base",
     "中国近现代史纲要 copy.md",
     "手敲复习资料 copy.md",
