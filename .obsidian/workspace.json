@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "西安",
+                "query": "按",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8a514117cf54d59",
+  "active": "15ff4ba087d76d6d",
   "lastOpenFiles": [
     "中国近现代史纲要.md",
     "Cpp程序设计.md",
