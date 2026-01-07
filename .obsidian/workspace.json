@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a59569df5d907c",
+        "id": "2e7bba3c3c7ec6e8",
         "type": "tabs",
         "children": [
           {
-            "id": "1781310147fa7a9f",
+            "id": "9f884a19bc2428ea",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 4.base",
-                "viewName": "表格"
+                "file": "中国近现代史纲要.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 4"
+              "icon": "lucide-file",
+              "title": "中国近现代史纲要"
             }
           }
         ]
@@ -185,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1781310147fa7a9f",
+  "active": "9f884a19bc2428ea",
   "lastOpenFiles": [
+    "未命名.base",
     "中国近现代史纲要.md",
     "未命名 4.base",
     "未命名 2.base",
@@ -194,7 +196,6 @@
     "中国近现代史纲要 copy.md",
     "手敲复习资料 copy.md",
     "未命名 1.base",
-    "未命名.base",
     "2026-01-06.md",
     "史纲.base",
     "未命名 1.canvas",
