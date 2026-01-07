@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "632dc1e351695fa7",
+        "id": "284c9a70550ddf53",
         "type": "tabs",
         "children": [
           {
-            "id": "733df289d8ded870",
+            "id": "3b1140cf9a5e22c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "r",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,11 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ff4ba087d76d6d",
+  "active": "3b1140cf9a5e22c7",
   "lastOpenFiles": [
-    "Cpp程序设计.md",
     "README.md",
     "中国近现代史纲要.md",
+    "Cpp程序设计.md",
     "未命名 1.base",
     "未命名.base",
     "未命名 4.base",
