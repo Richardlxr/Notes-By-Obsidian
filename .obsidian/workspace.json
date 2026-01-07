@@ -35,8 +35,7 @@
               "title": "Cpp程序设计"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "按",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ff4ba087d76d6d",
+  "active": "9f884a19bc2428ea",
   "lastOpenFiles": [
-    "中国近现代史纲要.md",
     "Cpp程序设计.md",
+    "中国近现代史纲要.md",
     "未命名 1.base",
     "未命名.base",
     "未命名 4.base",
