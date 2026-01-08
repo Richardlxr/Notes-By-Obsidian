@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中国近现代史纲要.md",
+                "file": "Cpp程序设计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中国近现代史纲要"
+              "title": "Cpp程序设计"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "多选",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ff4ba087d76d6d",
+  "active": "3b1140cf9a5e22c7",
   "lastOpenFiles": [
-    "README.md",
     "中国近现代史纲要.md",
+    "README.md",
     "Cpp程序设计.md",
     "未命名 1.base",
     "未命名.base",
