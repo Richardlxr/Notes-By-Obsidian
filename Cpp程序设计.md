@@ -236,11 +236,30 @@
 - **函数指针**：
     
     - 让函数“接收一个算法”，如 int (\*op)(int, int)。
-        
+	    `// 被传入的“算法函数”
+	`int add(int a, int b) {
+    ` a + b;
+	`}
+
+	`int sub(int a, int b) {
+    `return a - b;
+	`}
+
+	`// 接收函数指针作为参数
+	i`nt calc(int a, int b, int (*op)(int, int)) {
+    `return op(a, b);   // 通过函数指针调用函数
+	`}
+
+	`int main() {
+    `cout << calc(3, 4, add) << endl; // 7，调用的时候函数名变成函数指针
+    `cout << calc(3, 4, sub) << endl; // -1，其实也可以int *fun(int,int);fun=sub;
+    `return 0;
+	`}
+    
     - 推荐用 typedef 简化写法。
     
-	`int* f();   // ✅ 指针函数（返回 int*）
-	`int (*p)(); // ❌ 函数指针（指向函数）
+	`int* f();   // 指针函数（返回 int*）
+	`int (*p)(); //  函数指针（指向函数）
 `
 
 ---
