@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "退",
+                "query": "tag:#ifndef",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
