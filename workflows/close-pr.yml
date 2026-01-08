@@ -1,0 +1,20 @@
+name: Auto Close Pull Requests
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  close-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Close PR
+        uses: peter-evans/close-pull@v3
+        with:
+          comment: |
+            🚫 This repository does not accept pull requests.
+
+            Please do not submit PRs.
