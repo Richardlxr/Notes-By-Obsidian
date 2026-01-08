@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "多选",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b2942cde6f687d9f",
@@ -186,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b1140cf9a5e22c7",
+  "active": "15ff4ba087d76d6d",
   "lastOpenFiles": [
     "README.md",
     "中国近现代史纲要.md",
