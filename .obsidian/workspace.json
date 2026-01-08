@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "函数指针",
+                "query": "enum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
