@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "张学良",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
