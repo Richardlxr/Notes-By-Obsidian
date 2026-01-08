@@ -599,8 +599,20 @@
 - **同名函数遮蔽**：
     
     - 派生类重定义基类同名函数（非虚）会遮蔽基类版本。
-        
-    - 调用基类版：须加 Base::。
+		
+        `struct Base {
+	    `virtual void f(int) {
+        `cout << "Base::f(int)\n";
+	    `}};
+		
+		`struct Derived : Base {
+	    `void f(double) {
+        `cout << "Derived::f(double)\n";
+	    `}
+		`};
+	    ` 调用基类版：须加 Base::。
+	    `Derived d;
+		==`d.f(10);   // 被遮蔽了！，是derive（第一个查到的就是derive里面的）
         
 - **对象切片（Slicing）**：
     
