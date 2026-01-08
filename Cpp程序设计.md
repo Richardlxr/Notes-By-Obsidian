@@ -357,7 +357,7 @@
     
     - 以 \0 结尾的字符数组。
         
-    - 常用函数：strlen（不计 \0）、strcpy、strcat、strcmp、strncpy。
+    - ==常用函数：strlen（不计 \0）、strcpy、strcat、strcmp、strncpy。
         
 - **std::string (C++ 类)**：
     
@@ -374,8 +374,18 @@
 
 - **数组名退化**：
     
-    - 在传参或取值表达式中，数组名退化为指向首元素的指针。
-        
+    - 在传参==（注意按值传递的问题）==或取值表达式中，数组名退化为指向首元素的指针。
+	    
+        `void f(int arr[]) {
+	    `cout << sizeof(arr) << endl;
+		`}
+		
+		`int main() {
+	    `int a[10];
+	    `cout << sizeof(a) << endl; // 40
+	    ==`f(a);                      // 8(此处数组名字退化成了指针（由于传参））`==
+		`}
+		
 - **sizeof 陷阱**：
     
     - 在函数内部对形参数组用 sizeof，只得到指针大小（8），而非原数组总大小。
