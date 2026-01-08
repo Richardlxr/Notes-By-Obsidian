@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "enum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b2942cde6f687d9f",
@@ -185,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "15ff4ba087d76d6d",
+  "active": "3b1140cf9a5e22c7",
   "lastOpenFiles": [
     "中国近现代史纲要.md",
     "README.md",
