@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ifndef",
+                "query": "贯穿",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +185,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b1140cf9a5e22c7",
+  "active": "15ff4ba087d76d6d",
   "lastOpenFiles": [
     "workflows/close-pr.yml",
     "workflows",
