@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "军事理论（闫成版重点）.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "军事理论（闫成版重点）"
+              "title": "README"
             }
           }
         ]
@@ -198,8 +198,8 @@
   },
   "active": "05ccf8d85aeb9dad",
   "lastOpenFiles": [
-    "未命名 2.base",
     "军事理论（闫成版重点）.md",
+    "未命名 2.base",
     "Cpp程序设计.md",
     "2026-01-11.md",
     "未命名.base",
