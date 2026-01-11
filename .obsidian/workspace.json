@@ -11,10 +11,13 @@
             "id": "05ccf8d85aeb9dad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "bases",
+              "state": {
+                "file": "未命名 1.base",
+                "viewName": "表格"
+              },
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           }
         ]
@@ -193,8 +196,8 @@
   },
   "active": "05ccf8d85aeb9dad",
   "lastOpenFiles": [
-    "未命名 3.base",
     "未命名 1.base",
+    "未命名 3.base",
     "README.md",
     "军事理论（闫成版重点）.md",
     "未命名 2.base",
