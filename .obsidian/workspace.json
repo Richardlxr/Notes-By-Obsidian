@@ -11,13 +11,14 @@
             "id": "05ccf8d85aeb9dad",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "军事理论（闫成版重点）.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "军事理论（闫成版重点）"
             }
           }
         ]
@@ -180,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
