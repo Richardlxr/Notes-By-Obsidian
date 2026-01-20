@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "284c9a70550ddf53",
+        "id": "01b603b9cef07bf7",
         "type": "tabs",
         "children": [
           {
-            "id": "05ccf8d85aeb9dad",
+            "id": "749e0d9086a4287e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "军事理论（闫成版重点）.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 4.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "军事理论（闫成版重点）"
+              "icon": "lucide-table",
+              "title": "未命名 4"
             }
           }
         ]
@@ -79,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b2942cde6f687d9f",
@@ -182,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,28 +194,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05ccf8d85aeb9dad",
+  "active": "749e0d9086a4287e",
   "lastOpenFiles": [
+    "2026-01-17.md",
+    "未命名 4.base",
+    "未命名 1.canvas",
+    "未命名 3.base",
+    "未命名 2.base",
+    "未命名.canvas",
+    "未命名 1.base",
+    "军事理论（闫成版重点）.md",
     "build/军事理论.synctex(busy)",
     "未命名.base",
-    "军事理论（闫成版重点）.md",
     "build/军事理论.pdf",
     "军事理论.pdf",
     "README.md",
     "build/军事理论.synctex.gz",
     "build/xelatex7498.fls",
-    "build/军事理论.xdv",
-    "build/xelatex7495.fls",
-    "build/军事理论.fdb_latexmk",
-    "build/军事理论.fls",
     "Cpp程序设计.md",
     "2026-01-11.md",
     "中国近现代史纲要.md",
     "中国近现代史纲要 copy.md",
     "手敲复习资料 copy.md",
     "2026-01-06.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
     "史纲全面复习大纲.md"
   ]
 }
